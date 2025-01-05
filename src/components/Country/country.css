@@ -1,6 +1,14 @@
 .country{
     border: 2px solid skyblue;
     margin: 15px;
-    padding: 15px;
+    padding: 5px;
     border-radius: 15px;
+}
+
+.btn{
+    background: #000;
+    color:white;
+}
+.flag{
+    height: 150px;
 }
