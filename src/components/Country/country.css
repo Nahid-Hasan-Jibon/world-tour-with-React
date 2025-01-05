@@ -12,3 +12,7 @@
 .flag{
     height: 150px;
 }
+
+.visited{
+    background-color: tomato;
+}
